@@ -10,13 +10,6 @@ lua/config/lazy.lua       lazy.nvim bootstrap (loads lua/plugins/*)
 lua/plugins/*.lua         one plugin spec per file
 ```
 
-## Recent keymap changes
-
-| Old | New | Action |
-|---|---|---|
-| `<leader>dg` | `<leader>gd` | Generate a docblock (vim-doge). Moved so `<leader>d` runs without waiting. |
-| `<leader>fg` (git files, shadowed) | `<leader>fG` | Telescope git files. `<leader>fg` stays the grep prompt. |
-
 ## Keymaps
 
 Leader is `<Space>`.
