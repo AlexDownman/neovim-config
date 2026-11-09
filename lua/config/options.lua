@@ -22,7 +22,7 @@ set.signcolumn = "yes"
 -- cursor line
 set.cursorline = true
 
--- 80th column
+-- 240th column
 set.colorcolumn = "240"
 
 -- clipboard
